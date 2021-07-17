@@ -1,0 +1,8 @@
+sklearn
+pandas
+numpy
+dbscan1d
+scipy
+matplotlib
+seaborn
+tqdm
